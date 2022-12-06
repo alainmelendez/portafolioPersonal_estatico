@@ -1,0 +1,36 @@
+.bg-blue{
+    background-color: rgb(3, 3, 72) ;
+}
+.list-group{
+    --bs-list-group-bg:transparent;
+}
+
+.fa-brands.fa-linkedin.fa-2x:hover {
+    --bs-text-opacity: 1;
+    color: #0d7ce4 !important;
+}
+.fa-brands.fa-facebook.fa-2x:hover{
+    --bs-text-opacity: 1;
+    color:#99cd3286 !important;
+}
+.fa-brands.fa-instagram.fa-2x:hover{
+    --bs-text-opacity: 1;
+    color:#892be2cf !important;
+}
+
+section.panel.dashboard{
+    margin-top: 9rem;
+}
+
+.caja{
+    color:#ffffff;
+    width: 12rem;
+    height: 12rem;
+    background-color: #26a82e;
+    border-color: #0d7ce4;
+    border-width: 1rem;
+    border-radius: 1rem;
+}
+.panel{
+    margin-top: 5rem;
+}
